@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjCYvSBPF2Q=",
+  "success": true,
+  "projectFilePath": "S:\\Projetos\\Aprendizado\\Aprendizado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gui\\.nuget\\packages\\system.windows.extensions\\9.0.7\\system.windows.extensions.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
