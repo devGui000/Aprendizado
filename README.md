@@ -18,3 +18,18 @@ Praticar conceitos fundamentais da linguagem C#, utilizando funções para organ
 Cada aplicação está estruturada em funções separadas, facilitando a leitura e manutenção do código.
 
 ---
+🧠 Estrutura do código
+- Não há tratamento de erros por enquanto, então cuidado com entradas inválidas.
+
+- A lógica está organizada em funções, sem embaralhar tudo em um único bloco de código.
+
+- Essa arquitetura simples ajuda a manter o código mais limpo e modular.
+
+🛠 Tecnologias utilizadas
+- C#
+
+- .NET 6+
+
+- VS Code
+
+- Ambiente de console/terminal
